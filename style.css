@@ -1,0 +1,176 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    gap: 300px;
+}
+.box{
+    width: 1440px;
+    height: 1024px;
+    background-image: url(./image\ 1.png);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 300px;
+}
+.box2{
+    width: 50px;
+    height: 50px;
+      margin-top: 20px;
+      margin-left: 20px;
+}
+.box4{
+    width: 240px;
+    height: 50px;
+    display: flex;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px;
+}
+.box3{
+    width: 32px;
+    height: 32px;
+    margin-top: 7px;
+}
+.box1{
+    display: flex;
+    gap: 50px;   
+}
+h5, h4{
+    margin-left: 30px;
+     
+}
+.r1{
+display: flex
+}
+select{
+    width: 150px;
+    height: 30px;
+   background-color: rgb(142, 142, 253);
+   border-color:  rgb(142, 142, 253);;
+   color: rgb(80, 78, 78);
+margin-left: 470px;
+}
+h5{
+    color: rgb(80, 79, 79);
+    ;
+}
+.div{
+    width: 600px;
+    height: 100px;
+    background-color: yellow;
+margin-left: 400px;
+
+border-radius: 65px;
+border: 8px solid rgb(101, 100, 100);
+text-align: center;
+padding-top: 15px;
+
+
+}
+h1{
+    text-shadow: 5px 5px 5px gray;
+}
+.div2{
+width: 360px;
+height: 350px;
+margin-left: 100px;
+margin-top: 50px;
+}
+.vdi{
+  margin-left: 100px;
+width: 360px;
+height: 350px;
+margin-top: 50px;
+}
+.dvi{  
+width: 360px;
+height: 350px;
+margin-left: 100px;
+margin-top: 50px;
+}
+main{
+   
+}
+.ota{
+    display: flex;
+justify-content: space-around;
+}
+.ota1{
+    width: 1440px;
+    height: 1042px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+   
+}
+.ota3{
+    width: 571px;
+    height: 305px;
+    background-image: url(./image\ 10.png);
+     margin-top: 100px;
+}
+.ota4{
+    width: 660px;
+    height: 140px;
+    color: white;
+}
+.ota5{
+    width: 278px;
+    height: 61px;
+    background-color: blue;
+    box-shadow: 5px 5px 5px white;
+}
+.ota6{
+    width: 663px;
+    height: 330px;
+     margin-top: 100px;
+}
+
+.ona{
+    width: 660px;
+    height: 140px;
+    color: white;
+}
+.ona1{
+     width: 278px;
+    height: 61px;
+    background-color: blue;
+    box-shadow: 5px 5px 5px white;
+}
+.ona2{
+    width: 571px;
+    height: 305px;
+    background-image:url(./image\ 11.png) ;
+}
+.ona1:hover{
+    background-color: orange;
+}
+.ota5:hover{
+    background-color: orange;
+}
+footer{
+    width: 1440px;
+    height: 158px;
+    background-color: orange;
+    display: flex;
+ 
+}
+.footer__logo{
+    width: 101px;
+    height: 55px;
+    margin-left: 58px;
+    margin-top: 50px;
+}
+.footer__cards{
+    width: 45px;
+    height: 45px;
+}
+.footer__card{
+    display: flex;
+    gap: 30px;
+    margin-left: 1000px;
+    margin-top: 50px;
+}
